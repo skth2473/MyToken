@@ -1,5 +1,6 @@
-MyToken Smart Contract
+#MyToken Smart Contract
 Overview
+<br>
 This is a simple Solidity smart contract named MyToken. It allows users to mint and burn tokens, track the total supply of tokens, and manage balances associated with different addresses.
 
 Prerequisites
